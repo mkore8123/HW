@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swashbuckle</name>
+    </assembly>
+    <members>
+        <member name="M:Swashbuckle.Controllers.HomeController.Create(Swashbuckle.Models.ErrorViewModel)">
+            <summary>
+            Creates a Model.
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Swashbuckle.Controllers.HomeController.Delete123(System.Int64)">
+            <summary>
+            Deletes a specific TodoItem.
+            </summary> 
+            <param name="id"></param>        
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.exe
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.deps.json
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.runtimeconfig.json
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.runtimeconfig.dev.json
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\gRPCService.Client.pdb
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\obj\Debug\netcoreapp3.1\gRPCService.Client.AssemblyInfoInputs.cache
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\obj\Debug\netcoreapp3.1\gRPCService.Client.AssemblyInfo.cs
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\obj\Debug\netcoreapp3.1\gRPCService.Client.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\obj\Debug\netcoreapp3.1\gRPCService.Client.pdb
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\obj\Debug\netcoreapp3.1\gRPCService.Client.csproj.CopyComplete
+C:\Users\邱煥庭\Desktop\gRPCService\gRPCService.Client\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
